@@ -1,6 +1,6 @@
 # Asignación 4: Hardening de Redes y Auditoría CIS (FortiGate y Cisco)
 
-video:
+video:https://youtu.be/SVwjFG54ubE
 ---
 
 ##  1. Propósito del Laboratorio
